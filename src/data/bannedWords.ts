@@ -610,7 +610,7 @@ export const bannedWords: BannedWord[] = [
     word: "women",
     category: "Woke",
     message: "Did you mean 'future work-life balance complainers'? HR would like a word with you in their office.",
-    suggestion: "female individuals"
+    suggestion: "non-male individuals"
   },
   {
     word: "women and underrepresented",

@@ -98,7 +98,6 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white p-4 mt-auto">
         <div className="container mx-auto text-center">
-          <p>© 2023 NIH Spellcheck - A Satirical Web Application</p>
           <p className="text-sm mt-2">Not affiliated with any government agency</p>
         </div>
       </footer>
