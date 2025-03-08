@@ -286,13 +286,13 @@ export const bannedWords: BannedWord[] = [
     word: "female",
     category: "Woke",
     message: "Did you mean 'future maternity leave liability'? Our HR department would like a word with you.",
-    suggestion: "woman"
+    suggestion: "not male"
   },
   {
     word: "females",
     category: "Woke",
     message: "Females? In science? Next you'll want work-life balance and reasonable working hours!",
-    suggestion: "female researchers"
+    suggestion: "non-male researchers"
   },
   {
     word: "fostering inclusivity",
