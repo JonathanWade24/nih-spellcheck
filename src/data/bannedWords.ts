@@ -292,7 +292,7 @@ export const bannedWords: BannedWord[] = [
     word: "females",
     category: "Woke",
     message: "Females? In science? Next you'll want work-life balance and reasonable working hours!",
-    suggestion: "women"
+    suggestion: "female researchers"
   },
   {
     word: "fostering inclusivity",
@@ -508,7 +508,7 @@ export const bannedWords: BannedWord[] = [
     word: "racism",
     category: "Woke",
     message: "The only -ism we acknowledge is 'fund-me-ism'! Everything else is just sociology, not real science.",
-    suggestion: "prejudice"
+    suggestion: "bias"
   },
   {
     word: "sense of belonging",
@@ -604,7 +604,7 @@ export const bannedWords: BannedWord[] = [
     word: "victim",
     category: "Woke",
     message: "The only victims we acknowledge are those who miss grant deadlines! Now THAT'S a tragedy worth addressing.",
-    suggestion: "affected person"
+    suggestion: "impacted person"
   },
   {
     word: "women",
